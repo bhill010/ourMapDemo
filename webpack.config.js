@@ -1,5 +1,5 @@
 module.exports = {
-  entry: "./index.html",
+  entry: "./lib/jquery/jquery.js",
   output: {
   	filename: "./lib/bootstrap.js"
   },
