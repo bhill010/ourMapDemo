@@ -454,5 +454,10 @@ body {
 }
 
 .footer-text {
-  font-size: 18px
+  font-size: 18px,
+  color: white,
+}
+
+.tech-text {
+  font-size: 12px
 }
