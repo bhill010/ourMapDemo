@@ -458,3 +458,8 @@ body {
 .tech-text {
   font-size: 17px;
 }
+
+.gif-style {
+  max-width: 100%,
+  max-height: 100%
+}
