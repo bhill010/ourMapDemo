@@ -460,6 +460,8 @@ body {
 }
 
 .gif-style {
-  width: 100%;
-  height: 100%;
+  width: 1017px;
+  height: 558px;
+  position: absolute;
+  left: -350px;
 }
