@@ -449,6 +449,10 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-demo-pic {
+.demo-pic {
   width: 401px
+}
+
+.footer-text {
+  font-size: 18px
 }
