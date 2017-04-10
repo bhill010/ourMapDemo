@@ -376,8 +376,9 @@ footer {
   text-align: center;
 }
 footer p {
-  font-size: 12px;
+  font-size: 18px;
   margin: 0;
+  color: white;
 }
 footer ul {
   margin-bottom: 0;
@@ -450,14 +451,10 @@ body {
 }
 
 .demo-pic {
-  width: 401px
+  width: 401px;
 }
 
-.footer-text {
-  font-size: 18px,
-  color: white,
-}
 
 .tech-text {
-  font-size: 12px
+  font-size: 17px;
 }
