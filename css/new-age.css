@@ -465,3 +465,11 @@ body {
   position: absolute;
   left: -350px;
 }
+
+.emulator-button {
+  background-color: #ff8d48;
+  margin-top: 20px;
+  width: 40%;
+  font-size: 20px;
+  text-align: center;
+}
