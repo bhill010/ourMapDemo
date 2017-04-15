@@ -70,7 +70,7 @@ p {
 }
 .navbar-default .navbar-header .navbar-brand {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
+  /*font-weight: 200;*/
   letter-spacing: 1px;
   color: #fdcc52;
 }
@@ -133,6 +133,7 @@ p {
   .navbar-default.affix .navbar-header .navbar-brand {
     color: #222222;
   }
+
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
     color: #fdcc52;
@@ -393,6 +394,7 @@ footer ul li a:active,
 footer ul li a.active {
   text-decoration: none;
 }
+
 .bg-primary {
   background: #fdcc52;
   background: -webkit-linear-gradient(#ffbc38, #ffe6a4);
@@ -472,4 +474,9 @@ body {
   width: 40%;
   font-size: 20px;
   text-align: center;
+}
+
+.title-header {
+  font-size: 55px;
+  font-weight: 800;
 }
